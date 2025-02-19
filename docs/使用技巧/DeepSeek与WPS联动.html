@@ -11,7 +11,7 @@
 
 <link rel="search" type="application/opensearchdescription+xml" title="KylinOS技术文档" href="/opensearch.xml">
 <script src="https://hm.baidu.com/hm.js?ef0388c4791ba6cbe6cede113eace125" async></script><link rel="stylesheet" href="/assets/css/styles.ec31f7f2.css">
-<script src="/assets/js/runtime~main.e04241b7.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.09347e8f.js" defer="defer"></script>
 <script src="/assets/js/main.7ba091bf.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -21,7 +21,7 @@
 <li>WPS版本号：<a href="https://wps-linux-365.wpscdn.cn/wps/download/ep/Linux365/19831/wps-office_12.8.2.19831.AK.preload.sw_arm64.deb" target="_blank" rel="noopener noreferrer">19831（点我可下载Arm版本）</a> ，也可到<a href="https://365.wps.cn/download365" target="_blank" rel="noopener noreferrer">WPS365官网</a>自行下载。这里需要特别注意，已测试15283，12219版本不可用，也是踩了几个坑，本以为linux上WPS的VBA版本可能不完善，最后抱着试试看的想法安装了官网最新版，居然可用！喜大普奔！</li>
 </ul></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="准备工作申请api">准备工作：申请API<a href="#准备工作申请api" class="hash-link" aria-label="准备工作：申请API的直接链接" title="准备工作：申请API的直接链接">​</a></h2>
-<p>近期，各大AI运营商均部署了DeepSeek模型，并在其网站后台提供了API密钥。用户可以将获取的API密钥复制并替换到相应的代码中以接入这些服务。这里以腾讯云为例进行说明，因为在我的测试中，它的响应速度较快。当然，你也可以根据实际需求和不同平台的表现进行相应调整。</p>
+<p>近期，各大AI运营商均部署了DeepSeek模型，并在其网站后台提供了API密钥，当前大部分运营商的API可以免费申请，小编提供了目前4个可以免费部署的服务商供大家选择。用户可以将获取的API密钥复制并替换到相应的代码中以接入这些服务。这里以腾讯云为例进行说明，因为在我的测试中，它的响应速度较快。当然，你也可以根据实际需求和不同平台的表现进行相应调整。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="1注册并登录控制台">1.注册并登录控制台<a href="#1注册并登录控制台" class="hash-link" aria-label="1.注册并登录控制台的直接链接" title="1.注册并登录控制台的直接链接">​</a></h3>
 <div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">腾讯云（推荐）</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">硅基流动</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">DeepSeek官方</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">百度云千帆</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p><a href="https://console.cloud.tencent.com/lkeap" target="_blank" rel="noopener noreferrer">https://console.cloud.tencent.com/lkeap</a></p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p><a href="https://cloud.siliconflow.cn" target="_blank" rel="noopener noreferrer">https://cloud.siliconflow.cn</a></p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p><a href="https://platform.deepseek.com/usage" target="_blank" rel="noopener noreferrer">https://platform.deepseek.com/usage</a></p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p><a href="https://cloud.baidu.com" target="_blank" rel="noopener noreferrer">https://cloud.baidu.com</a></p></div></div></div>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="2开通大模型知识引擎服务">2.开通大模型知识引擎服务<a href="#2开通大模型知识引擎服务" class="hash-link" aria-label="2.开通大模型知识引擎服务的直接链接" title="2.开通大模型知识引擎服务的直接链接">​</a></h3>
