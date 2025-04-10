@@ -1,66 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.33 20.75">
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.33 20.75">
   <defs>
     <style>
       .cls-1 {
-        fill: url(#_未命名的渐变_2);
+        fill: url(#_未命名的渐变_1773);
       }
 
       .cls-2 {
-        fill: url(#_未命名的渐变_3);
+        fill: url(#_未命名的渐变_960);
       }
 
       .cls-3 {
-        fill: url(#_未命名的渐变);
-      }
-
-      .cls-4 {
-        fill: url(#_未命名的渐变_132);
-      }
-
-      .cls-5 {
         fill: #5d9cf9;
       }
     </style>
-    <radialGradient id="_未命名的渐变" data-name="未命名的渐变" cx="9.16" cy="11.62" fx="9.16" fy="11.62" r="9.79" gradientTransform="translate(0 22) scale(1 -1)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="_未命名的渐变_960" data-name="未命名的渐变 960" cx="9.16" cy="10.38" fx="9.16" fy="10.38" r="9.79" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#06a1ff"/>
     </radialGradient>
-    <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="9.16" cy="11.62" fx="9.16" fy="11.62" r="9.79" gradientTransform="translate(0 22) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff"/>
-      <stop offset="1" stop-color="#06a1ff"/>
-    </radialGradient>
-    <radialGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" cx="9.16" cy="11.62" fx="9.16" fy="11.62" r="9.79" gradientTransform="translate(0 22) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff"/>
-      <stop offset="1" stop-color="#06a1ff"/>
-    </radialGradient>
-    <linearGradient id="_未命名的渐变_132" data-name="未命名的渐变 132" x1="3.75" y1="11.79" x2="13.8" y2="11.79" gradientTransform="translate(0 22) scale(1 -1)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_未命名的渐变_1773" data-name="未命名的渐变 1773" x1="3.75" y1="10.21" x2="13.8" y2="10.21" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset=".33" stop-color="#1392ff"/>
-      <stop offset=".44" stop-color="#1493fd" stop-opacity=".99"/>
-      <stop offset=".52" stop-color="#1997fa" stop-opacity=".95"/>
-      <stop offset=".6" stop-color="#219ff5" stop-opacity=".88"/>
-      <stop offset=".68" stop-color="#2ca9ed" stop-opacity=".78"/>
-      <stop offset=".75" stop-color="#3ab6e3" stop-opacity=".66"/>
-      <stop offset=".82" stop-color="#4cc7d6" stop-opacity=".51"/>
-      <stop offset=".89" stop-color="#61dac8" stop-opacity=".33"/>
-      <stop offset=".96" stop-color="#78f0b7" stop-opacity=".13"/>
-      <stop offset="1" stop-color="#88ffad" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000"/>
     </linearGradient>
   </defs>
-  <g id="_图层_1-2">
-    <g>
-      <path class="cls-5" d="M8.43,16.16l-4.46-2.58v-5.14L0,6.15v9.73l8.43,4.87v-4.58h0Z"/>
-      <path class="cls-5" d="M4.7,7.17l4.46-2.58,4.46,2.58,3.98-2.3L9.16,0,.72,4.88l3.98,2.3h0Z"/>
-      <path class="cls-5" d="M14.35,13.58l-4.46,2.58v4.58l8.44-4.87V6.15l-3.98,2.3v5.14h0Z"/>
-    </g>
+  <g id="_图层_1-2" data-name="_图层_1">
     <g>
       <path class="cls-3" d="M8.43,16.16l-4.46-2.58v-5.14L0,6.15v9.73l8.43,4.87v-4.58h0Z"/>
-      <path class="cls-1" d="M4.7,7.17l4.46-2.58,4.46,2.58,3.98-2.3L9.16,0,.72,4.88l3.98,2.3h0Z"/>
+      <path class="cls-3" d="M4.7,7.17l4.46-2.58,4.46,2.58,3.98-2.3L9.16,0,.72,4.88l3.98,2.3h0Z"/>
+      <path class="cls-3" d="M14.35,13.58l-4.46,2.58v4.58l8.44-4.87V6.15l-3.98,2.3v5.14h0Z"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M8.43,16.16l-4.46-2.58v-5.14L0,6.15v9.73l8.43,4.87v-4.58h0Z"/>
+      <path class="cls-2" d="M4.7,7.17l4.46-2.58,4.46,2.58,3.98-2.3L9.16,0,.72,4.88l3.98,2.3h0Z"/>
       <path class="cls-2" d="M14.35,13.58l-4.46,2.58v4.58l8.44-4.87V6.15l-3.98,2.3v5.14h0Z"/>
     </g>
   </g>
   <g id="_图层_2">
-    <path class="cls-4" d="M8.69,8.24l-.89,3.96,2.4-.07.34-1.57-1.6.05.24-1.15,2.78-.11c.06,0,.12.01.17.04.06.02.11.06.14.1.04.04.07.1.09.16.02.07.03.13.02.17l-.75,3.41-5.8.19-.83.02c.22-.03.41-.08.58-.13s.27-.12.3-.19c0,.02,0,.04-.01.06l.02-.07h0v-.02l1.31-5.72c-.07-.1-.32-.17-.75-.21l.8-.02,4.94-.17s.09.01.15.04c.06.02.1.05.12.08.03.03.06.08.07.14.02.06.02.11.01.16l-.16.73-3.7.11h0ZM5.9,13.12h-.01s.01-.03.02-.04h0v.03h0ZM7.22,7.41s0,.06,0,.04v-.04Z"/>
+    <path class="cls-1" d="M8.69,8.24l-.89,3.96,2.4-.07.34-1.57-1.6.05.24-1.15,2.78-.11c.06,0,.12.01.17.04.06.02.11.06.14.1.04.04.07.1.09.16.02.07.03.13.02.17l-.75,3.41-5.8.19-.83.02c.22-.03.41-.08.58-.13s.27-.12.3-.19c0,.02,0,.04-.01.06l.02-.07h0v-.02l1.31-5.72c-.07-.1-.32-.17-.75-.21l.8-.02,4.94-.17s.09.01.15.04c.06.02.1.05.12.08.03.03.06.08.07.14.02.06.02.11.01.16l-.16.73-3.7.11h0ZM5.9,13.12h-.01s.01-.03.02-.04h0v.03h0ZM7.22,7.41s0,.06,0,.04v-.04Z"/>
   </g>
 </svg>
